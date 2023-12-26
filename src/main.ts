@@ -7,7 +7,11 @@ import { setupCounter } from './counter.ts'
 // import './topics/03-functions.ts'
 // import './topics/04-homework-types.ts'
 // import './topics/05-destructuring.ts'
-import './topics/06-functions-destructuring.ts'
+// import './topics/06-functions-destructuring.ts'
+// import './topics/07-modules.ts'
+// import './topics/08-classes-extends.ts'
+// import './topics/09-classes-composition.ts'
+import './topics/10-generics.ts'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
