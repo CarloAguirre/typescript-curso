@@ -16,3 +16,5 @@ const strider: Character = {
 strider.hometown = "Rivendel"
 
 console.log(strider)
+
+export{}
